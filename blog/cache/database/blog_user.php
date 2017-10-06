@@ -1,0 +1,20 @@
+<?php 
+ return array (
+  '_key' => 'uid',
+  0 => 'uid',
+  1 => 'username',
+  2 => 'password',
+  3 => 'email',
+  4 => 'udertype',
+  5 => 'regtime',
+  6 => 'regip',
+  7 => 'picture',
+  8 => 'grade',
+  9 => 'realname',
+  10 => 'sex',
+  11 => 'birthday',
+  12 => 'phone',
+  13 => 'allowlogin',
+  14 => 'closeip',
+  15 => 'daliy',
+);

@@ -1,0 +1,20 @@
+<?php 
+ return array (
+  '_key' => 'id',
+  0 => 'id',
+  1 => 'first',
+  2 => 'tid',
+  3 => 'authorid',
+  4 => 'title',
+  5 => 'content',
+  6 => 'addtime',
+  7 => 'replycount',
+  8 => 'hits',
+  9 => 'isdel',
+  10 => 'isdisplay',
+  11 => 'zan',
+  12 => 'shoucang',
+  13 => 'uname',
+  14 => 'picture',
+  15 => 'addip',
+);
